@@ -8,7 +8,7 @@ public class Grass extends Plant {
 	}
 	
 	public void reproduce() {
-		// this is silly code really, but as an example
+		// this is silly code really, but as an example slkdjhfsklghj
 		int newX = (int)(Math.random()*20);
 		int newY = (int)(Math.random()*20); 
 		
